@@ -1,0 +1,11 @@
+$color-gray: #f7f7f7;
+h1 {
+background-color: $color-gray;
+}
+
+.mydiv {
+ p {
+   // your styling for p tag goes here
+   color: pink;
+ }
+}
